@@ -1,0 +1,14 @@
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    gap: 20px;
+
+}
+.container{
+    width: calc(25% -12px);
+}
+
+body{
+    background-color:blanchedalmond
+}
